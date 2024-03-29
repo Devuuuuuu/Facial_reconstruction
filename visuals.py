@@ -3,7 +3,7 @@ import numpy as np
 from mayavi import mlab
 
 # Load the DICOM file
-dicom_file = "export.dcm"
+dicom_file = "dicom_file_name.dcm"
 ds = pydicom.dcmread(dicom_file)
 
 # Access pixel data
