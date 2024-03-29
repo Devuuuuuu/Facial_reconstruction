@@ -14,7 +14,7 @@ There are 2 python files, 1 png file
 3) tester.py<br>
    a) After having a png or any image file, simply put that image as 'image_name.png' in the 11th line of tester.py<br>
    b) Here for an example, we already have face_img.png file in the repository<br>
-   c) Finally, the output would be the face image with landmarks trained on it
-   
+   c) Finally, the output would be the face image with landmarks trained on it<br>
+   d) An example output is present in Screenshot
 
 
