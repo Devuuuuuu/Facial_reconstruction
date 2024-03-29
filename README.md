@@ -8,10 +8,9 @@ There are 2 python files, 1 png file
    c) You need to replace that with the DICOM file<br>
    e) Here, in github repo, I couldn't add DICOM file because it was way too big, even after compression, it was big...so you need to separately install that<br>
    d) Finally, after getting the DICOM file, your output would be a 3d view of the facial structure<br>
-   f) Now, the thing you need to do is, get a proper frontfaced angle of that structured, such that the face is visible to your side...take a snapshot or screenshot and it would be saved in png or jpg format<br><br>
+   f) Now, the thing you need to do is, get a proper frontfaced angle of that structured, such that the face is visible to your side...take a snapshot or screenshot and it would be saved in png or jpg format<br>
+   g) An example image is mentioned in the repository as face_img.png<br><br>
 
 3) tester.py<br>
-   a) Now, the thing you need to do is, get a proper frontfaced angle of that structured, such that the face is visible to your side...take a snapshot or screenshot<br>
-   b) An example image is mentioned in the repository as face_img.png<br>
-   c) After having a png or any image file, 
+   a) After having a png or any image file, you need to replace 
 
