@@ -12,5 +12,6 @@ There are 2 python files, 1 png file
    g) An example image is mentioned in the repository as face_img.png<br><br>
 
 3) tester.py<br>
-   a) After having a png or any image file, you need to replace 
+   a) After having a png or any image file, you need to replace img = cv2.imread("face_img.png") in the  
+
 
